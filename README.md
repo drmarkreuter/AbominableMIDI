@@ -16,7 +16,7 @@ Mark 2023-12-12
 
 ## RD6 MIDI templates
 
-
+![RD6-templates](/images/RD6-MIDI_templatesSQ.png)
 
 2 MIDI files with the drum mappings for the Behringer RD6 drum machine. Mark 2023-12-15
 
