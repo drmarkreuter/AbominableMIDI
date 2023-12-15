@@ -20,6 +20,10 @@ Mark 2023-12-12
 
 2 MIDI files with the drum mappings for the Behringer RD6 drum machine. Mark 2023-12-15
 
+[RD6 templates](https://github.com/drmarkreuter/AbominableMIDI/tree/main/RD6-MIDI_template)
+
+# Social links
+
 [YouTube](https://www.youtube.com/c/abominablemusic)
 
 [Instagram](https://www.instagram.com/abominablemusic/)
