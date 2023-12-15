@@ -14,6 +14,12 @@ Various MIDI files, templates etc.
 
 Mark 2023-12-12
 
+## RD6 MIDI templates
+
+
+
+2 MIDI files with the drum mappings for the Behringer RD6 drum machine. Mark 2023-12-15
+
 [YouTube](https://www.youtube.com/c/abominablemusic)
 
 [Instagram](https://www.instagram.com/abominablemusic/)
